@@ -1,0 +1,3 @@
+# Library which are required for the project
+langchain==1.1.3
+langgraph==1.0.5
